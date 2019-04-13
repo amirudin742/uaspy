@@ -23,3 +23,24 @@ Langkah 1
 
 Langkah 2
 ![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%202.jpg)
+
+Langkah 3
+![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%203.jpg)
+
+Langkah 4
+![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%204.jpg)
+
+Langkah 5
+![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%205.jpg)
+
+Langkah 6
+![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%206.jpg)
+
+Langkah 7
+![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%207.jpg)
+
+Langkah 8
+![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%207.jpg)
+
+Hasilnya
+![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%207.jpg)
