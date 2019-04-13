@@ -20,3 +20,6 @@ Berikut Adalah Langkah dan Hasilnya :
 
 Langkah 1
 ![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%201.jpg)
+
+Langkah 2
+![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%202.jpg)
