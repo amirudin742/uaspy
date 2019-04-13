@@ -40,7 +40,7 @@ Langkah 7
 ![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%207.jpg)
 
 Langkah 8
-![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%207.jpg)
+![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%208.png)
 
 Hasilnya
-![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%207.jpg)
+![alt text](https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Hasilnya.png)
