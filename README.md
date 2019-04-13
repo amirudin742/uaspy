@@ -17,4 +17,4 @@ from core.baseapp import BaseApp
 Berikut Adalah Langkah dan Hasilnya :
 
 Langkah 1
-![img] (https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%201.jpg)
+![alt text] (https://raw.githubusercontent.com/amirudin742/uaspy/master/Langkahnya/Langkah%201.jpg)
